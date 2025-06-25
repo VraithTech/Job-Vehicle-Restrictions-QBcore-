@@ -23,3 +23,6 @@ Add ensure job-vehicle-restrictions to your server.cfg,
 Configure vehicle restrictions in config.lua (examples included),
 Restart your server
 
+TUTORIAL:
+-----
+https://www.youtube.com/watch?v=7kqOgCo442s&list=PLbFjoPQGjsdTzFpnoLiE0UZ70QFI4yWJG
